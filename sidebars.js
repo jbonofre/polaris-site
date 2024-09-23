@@ -24,7 +24,7 @@ const sidebars = {
       type: 'category',
       collapsible: false,
       label: 'Documentation',
-      items: ['overview','command-line-interface','entities','access-control','configuring-polaris-for-production'],
+      items: ['overview','command-line-interface','entities','access-control','configuring-polaris-for-production','metastores'],
     },
   ],
    
